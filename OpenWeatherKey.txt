@@ -1,0 +1,9 @@
+Api Key: 688de71541392d31f377e7f78f22883f
+URL: https://api.openweathermap.org/data/2.5/weather?q={delhi}&appid={688de71541392d31f377e7f78f22883f}
+
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
