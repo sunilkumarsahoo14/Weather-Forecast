@@ -7,3 +7,9 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
 
 https://api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
+
+
+If above key not working then use the following.
+weatherapi.com
+key: 314d925afc1e42cd9b1125410252601
+: http://api.weatherapi.com/v1/current.json?key=314d925afc1e42cd9b1125410252601&q=London&aqi=yes
